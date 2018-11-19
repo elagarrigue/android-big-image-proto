@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/sampledImageItem"
+          android:title="@string/sampled_image"/>
+    <item android:id="@+id/rawImageItem"
+          android:title="Raw Image"/>
+    <item android:id="@+id/photoViewItem"
+          android:title="Photo View with zoom"/>
+    <item android:id="@+id/tileViewItem"
+          android:title="Tile View with zoom"/>
+</menu>
