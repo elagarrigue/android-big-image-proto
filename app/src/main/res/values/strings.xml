@@ -4,4 +4,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="sampled_image">Sampled Image</string>
+    <string name="tile_view_with_zoom">Tile View with zoom</string>
+    <string name="photo_view_with_zoom">Photo View with zoom</string>
+    <string name="raw_image">Raw Image</string>
 </resources>
